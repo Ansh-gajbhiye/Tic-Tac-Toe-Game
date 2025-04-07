@@ -9,6 +9,13 @@ A simple, fun, and responsive Tic Tac Toe game built using **React**!
 - Game reset functionality
 - React functional components and hooks
 
+- A clean and modern Tic Tac Toe game built using **React**. Play with a friend on the same device!  
+Now live — no install needed. Just click and play! 🚀
+
+🔗 **Live Demo:** [tic-tac-toe-game.vercel.app](https://tic-tac-toe-game-virid-gamma.vercel.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - React
