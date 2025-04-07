@@ -18,10 +18,10 @@ A simple, fun, and responsive Tic Tac Toe game built using **React**!
 ## 📸 Preview
 
 ### 🟦 Game Start
-![Tic Tac Toe Start](./assets/tictactoe.png)
+![Tic Tac Toe Start](./public/tictactoe.png)
 
 ### 🟨 Win Screen
-![Tic Tac Toe Win](./assets/tictactoe2.png)
+![Tic Tac Toe Win](./public/tictactoe2.png)
 
 
 
